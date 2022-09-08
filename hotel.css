@@ -1,0 +1,262 @@
+* {
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.Top {
+  height: 31px;
+  width: 100%;
+  padding-top: 10px;
+}
+#A {
+  background-color: #f44336;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px 20px;
+}
+#bed {
+  padding-right: 10px;
+  font-size: 14px;
+}
+#A:hover {
+  background-color: #cccccc;
+  color: black;
+}
+.B {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px 20px;
+}
+.C {
+  background-color: #f1f1f1;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px 20px;
+  margin-left: 797px;
+}
+.B:hover {
+  background-color: #cccccc;
+}
+.C:hover {
+  background-color: #cccccc;
+}
+.bg {
+  width: 100%;
+  height: 110vh;
+  background-image: url(./images/hotel.jpg);
+}
+.registration {
+  width: 560px;
+  height: 325px;
+  padding: 200px 30px;
+  padding-bottom: 0;
+}
+.hotel {
+  background-color: #f44336;
+  padding: 10px 10px;
+}
+.hotel h2 {
+  color: white;
+  font-weight: 400;
+  font-size: 30px;
+}
+.pr {
+  background-color: white;
+}
+.bolo {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.date {
+  width: 260px;
+  height: 36px;
+  color: grey;
+  border-color: white;
+}
+.poyon {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.but {
+  margin-left: 5px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: #616161;
+  width: 200px;
+  height: 40px;
+}
+#fa {
+  padding-right: 20px;
+}
+.but:hover {
+  background-color: #cccccc;
+  color: black;
+}
+.mid {
+  background-color: #f1f1f1;
+}
+#r {
+  font-weight: 500;
+  font-size: 20px;
+  margin-left: 15px;
+  padding-top: 25px;
+}
+#p {
+  font-weight: 400;
+  font-size: 14px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.fr {
+  display: flex;
+  margin-top: 22px;
+  justify-content: space-around;
+}
+.but1 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: black;
+  width: 200px;
+  height: 40px;
+}
+.but1:hover {
+  background-color: #cccccc;
+  color: black;
+}
+.images {
+  display: flex;
+  margin: 0px 10px;
+  justify-content: space-evenly;
+}
+.first{
+  background-color: white;
+}
+.first img {
+  width: 420px;
+  height: 271px;
+}
+.first h3 {
+  font-weight: 400;
+  font-size: 23px;
+  padding-left: 15px;
+  padding-top: 7px;
+}
+.sec {
+  background-color: white;
+}
+.sec img {
+  width: 420px;
+  height: 271px;
+}
+.sec h3 {
+  font-weight: 400;
+  font-size: 23px;
+  padding-left: 15px;
+  padding-top: 7px;
+}
+.third {
+  background-color: white;
+}
+.third img {
+  width: 420px;
+  height: 271px;
+}
+.third h3 {
+  font-weight: 400;
+  font-size: 23px;
+  padding-left: 15px;
+  padding-top: 7px;
+}
+.price {
+  padding-left: 15px;
+  padding-top: 15px;
+  color: grey;
+  font-size: 14px;
+}
+.bed {
+  font-size: 14px;
+  padding-left: 15px;
+  padding-top: 15px;
+  font-weight: 500;
+}
+.cub {
+  font-size: 14px;
+  padding-left: 15px;
+  padding-top: 15px;
+  font-weight: 500;
+}
+.ic {
+  padding-left: 15px;
+  padding-top: 15px;
+  font-size: 14px;
+}
+#icc {
+  padding-left: 10px;
+}
+.button {
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+  padding: 10px 0px;
+  width: 95%;
+  margin-left: 10px;
+}
+.button:hover {
+  background-color: #cccccc;
+  color: black;
+}
+.con4 {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(211, 211, 211, 0.41);
+  display: grid;
+  gap: 55px;
+  grid-template-columns: 30% 65%;
+  grid-template-rows: auto 60px;
+  margin-top: 10px;
+}
+.about1 {
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+.is {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.card {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.card i {
+  padding: 3px;
+}
+.conta2 img {
+  width: 100%;
+}
+.item {
+  display: flex;
+  width: 1520px;
+  justify-content: space-around;
+
+}
+.item .fa-location-dot{
+  margin-left: 50px;
+}
+.item i{
+  color: #f44336;
+  margin-right: 10px;
+}
+.item p{
+  margin-right: 80px;
+}
